@@ -1,0 +1,12 @@
+
+var math =10;
+var physics = 9;
+var chemistry = 10;
+
+var average = (math + physics + chemistry)/3;
+console.log("average: ",average);
+
+
+var usd = 1;
+var vnd = usd*23000;
+console.log("Tiền vnd là: ", vnd);
